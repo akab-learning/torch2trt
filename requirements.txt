@@ -1,0 +1,7 @@
+torch==1.10.2
+torchvision==0.11.3
+albumentations==1.2.1
+onnx==1.11.0
+opencv-python==4.6.0.66
+pycuda==2022.1
+nvidia-pyindex==1.0.9
